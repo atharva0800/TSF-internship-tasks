@@ -1,7 +1,10 @@
 # TSF-internship-tasks
 Tasks of data science and buisness analytics at the sparks foundation
+
 Internship Category - Data Science and Business Analytics
+
 Internship Duration - 1 Month ( July-2021 )
+
 Internship Type - Work from Home
 
 #Task 1-Prediction using supervised machine learning                                                           
