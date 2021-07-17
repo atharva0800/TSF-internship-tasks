@@ -12,7 +12,7 @@ Internship Type - Work from Home
 
 2.This is a simple linear regression task as it involves just 2 variables.
 
-3.Data can be found at http://bit.ly/w
+3.Data can be found at https://bit.ly/3kXTdox
 
 4.You can use R, Python, SAS Enterprise Miner or any other tool.
 
