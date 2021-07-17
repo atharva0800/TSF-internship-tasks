@@ -7,7 +7,7 @@ Internship Duration - 1 Month ( July-2021 )
 
 Internship Type - Work from Home
 
-#Task 1-Prediction using supervised machine learning                                                           
+# Task 1-Prediction using supervised machine learning                                                           
 1.Predict the percentage of marks of an student based on the number of study hours.
 
 2.This is a simple linear regression task as it involves just 2 variables.
